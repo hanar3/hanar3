@@ -8,7 +8,7 @@ Hi there! My name is Vitor and I specialize in backend development with experien
 When I'm not busy exploring the depths of code, you can usually find me researching games and writing some top-notch Rust code (or at least trying my best to do so). 
 
 
-Also a unskillful FIFA 23 player and vocaloid degen.
+Also an unskillful FIFA 23 player and vocaloid degen.
 
 <div style ="margin-top: 20px; text-align: center;">
 <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
