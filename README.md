@@ -1,15 +1,14 @@
 
 [![Linkedin: Vitor M](https://img.shields.io/badge/-Vitor%20M-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vhmoreno/)](https://www.linkedin.com/in/vhmoreno/)
 
-```> cat profile.txt```
+
+Hi there! My name is Vitor and I specialize in backend development with experience in full-stack as well. I mostly study on my own.
 
 
-Hi! My name is Vitor, and I'm an aspiring full-stack developer.
+When I'm not busy exploring the depths of code, you can usually find me researching games and writing some top-notch Rust code (or at least trying my best to do so). 
 
-I've been working with frontend and backend technologies for five years now, and I'm learning more every day.
 
-If you want to have a chat feel free to reach out on [email](mailto:vh.morenodasilva@gmail.com).
-
+Also a unskillful FIFA 23 player and vocaloid degen.
 
 <div style ="margin-top: 20px; text-align: center;">
 <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
